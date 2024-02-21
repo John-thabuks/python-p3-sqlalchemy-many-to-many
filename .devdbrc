@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/thabuks/Development/code/phases_3/python-p3-sqlalchemy-many-to-many/lib/many_to_many.db"
+  }
+]

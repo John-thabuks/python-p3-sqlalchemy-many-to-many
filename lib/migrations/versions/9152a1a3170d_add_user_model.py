@@ -1,8 +1,8 @@
-"""Add game_user Association Table
+"""Add User model
 
-Revision ID: 157c7cdb2dc2
+Revision ID: 9152a1a3170d
 Revises: a28af33e6866
-Create Date: 2024-02-13 23:09:16.534522
+Create Date: 2023-12-07 11:29:32.020559
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '157c7cdb2dc2'
+revision = '9152a1a3170d'
 down_revision = 'a28af33e6866'
 branch_labels = None
 depends_on = None
